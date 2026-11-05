@@ -1,1 +1,1 @@
-{"status":"error","attemptedAt":"2026-11-04T00:37:25.950379+00:00","lastSuccess":"2026-10-28T00:45:44.762524+00:00","errors":["Chain list shrank; retain previous release, missing: ['cabal', 'zigchain']"],"warnings":[]}
+{"status":"error","attemptedAt":"2026-11-05T00:38:30.264785+00:00","lastSuccess":"2026-10-28T00:45:44.762524+00:00","errors":["Chain list shrank; retain previous release, missing: ['cabal', 'zigchain']"],"warnings":[]}
